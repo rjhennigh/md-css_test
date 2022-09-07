@@ -1,0 +1,14 @@
+.notion-h-title {
+  color: hsla(0, 100.00%, 50.00%, 1.00);
+  font-size: 64px;
+}
+
+.notion-text {
+  color: hsla(237, 100.00%, 50.00%, 1.00);
+  font-size: 19px;
+}
+
+.notion-h {
+  color: hsla(149, 85.12%, 43.57%, 1.00);
+  font-size: 32px;
+}
